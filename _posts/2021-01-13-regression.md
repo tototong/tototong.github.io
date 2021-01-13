@@ -1,7 +1,4 @@
-----
-layout: single
-title:  Linear Regression
-----
+
 
 # My first posting
 
