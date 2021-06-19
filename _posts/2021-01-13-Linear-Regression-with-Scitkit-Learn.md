@@ -1,5 +1,8 @@
 
-___
+---
+layout: post
+title:  "Welcome to Jekyll!"
+---
 
 <a href='http://www.pieriandata.com'><img src='../Pierian_Data_Logo.png'/></a>
 ___
